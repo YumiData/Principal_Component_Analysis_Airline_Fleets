@@ -16,4 +16,4 @@ Principal Component Analysis (PCA) is a statistical technique used to simplify c
 
 
 ## Result
-By visualizing the PCA result, it helps select the number of PCA components to best reduce the number of variables without losing significant informative data. .
+By visualizing the PCA result, it helps select the number of PCA components to best reduce the number of variables without losing significant informative data.
